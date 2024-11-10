@@ -6,6 +6,6 @@ grade:
   - subject: Math
     grade: D
   - subject: English
-    grade: F
+    grade: c
   - subject: Science
     grade: A+
